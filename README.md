@@ -1,6 +1,6 @@
 # Invisio - Car Table
 
-Simple Car Table. You can add new cars, edit existing cars or delete record if u want. You can sort the Table by name (Car Model & Car Brand) or by the number (Year of Production). If u want u can search for a specific name for a Car Model and search it in the top of the site.
+A simple table with functionality to create, edit and delete vehicle records. It has the ability to sort by name (vehicle model & brand) and year of production. Search engine includes a search for vehicles by model.
 
 ## Live on Github Pages:
 
